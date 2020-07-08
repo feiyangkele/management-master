@@ -34,6 +34,7 @@
 ##### 7、个人中心模块
 个人中心模块是管理员及用户都有的模块，通过本模块无论是管理员还是用户都可以对个人信息进行管理，并且可以进行维护。
 
+
 <div align=center><img src="http://tiebapic.baidu.com/forum/w%3D580/sign=583625b6a41c8701d6b6b2ee177e9e6e/f64aa3ec8a13632714955961868fa0ec09fac7fa.jpg"/></div>
 
 
